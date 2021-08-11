@@ -1,3 +1,6 @@
+def unused_func():
+    print "i do nothing lol"
+
 def func(a,b):
     return a + b
 
