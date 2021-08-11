@@ -1,3 +1,6 @@
+def some_syntax_error():
+    lalala
+
 def unused_func():
     print "i do nothing lol"
 
